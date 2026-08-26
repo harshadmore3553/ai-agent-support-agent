@@ -1,0 +1,8 @@
+fastapi>=0.115
+uvicorn[standard]>=0.34
+pydantic>=2.0
+python-dotenv>=1.0
+openai>=1.100
+numpy>=2.0
+scikit-learn>=1.5
+pytest>=8.0
