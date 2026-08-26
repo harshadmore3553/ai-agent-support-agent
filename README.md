@@ -218,7 +218,7 @@ The application can be demonstrated using:
 5. The automated test suite
    ## Demo
 
-[▶️ Watch the 2–4 minute demo](./demo.mp4)
+[▶️ Watch the 2–4 minute demo](video Project.zip)
 
 The demo shows:
 - Knowledge-base RAG with sources
