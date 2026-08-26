@@ -216,6 +216,16 @@ The application can be demonstrated using:
 3. A multi-turn follow-up question
 4. A privacy/prompt-injection refusal
 5. The automated test suite
+   ## Demo
+
+[▶️ Watch the 2–4 minute demo](./demo.mp4)
+
+The demo shows:
+- Knowledge-base RAG with sources
+- Order lookup
+- Multi-turn conversation
+- Privacy/safety refusal
+- Automated evaluation tests
 
 The repository contains the application, tests, evaluation data, knowledge base, and supporting scripts.
 
